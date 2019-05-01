@@ -40,7 +40,7 @@ development: {
 ```sh
 $ knex migration:latest
 ```
-Note: if you not installed knex, first run this command
+Note: if you not installed knex, first run this command:
 ```sh
 $ npm install knex --global
 ```
@@ -82,4 +82,4 @@ POST /auth/login
 ```
 
 # License
-ISC License
+ISC License.
